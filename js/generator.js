@@ -1,5 +1,5 @@
-var baseUrl = "https://imagecdn.app";
-var apiRoot = "/v1/images/";
+var baseUrl = "https://cdn.envision5.com";
+var apiRoot = "/images/";
 
 // Generate an image URL
 function generateImage(e) {
